@@ -23,7 +23,7 @@ function sumOfNumbersTo(destination) {
 }
 sumOfNumbersTo(10)
 
- assignment.sumOfNumbersTo = sumOfNumbersTo;
+assignment.sumOfNumbersTo = sumOfNumbersTo;
 
 /**
  * Challenge - 2
