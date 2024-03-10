@@ -21,7 +21,7 @@ function sumOfNumbersTo(destination) {
     }
     return sum
 }
-console.log(sumOfNumbersTo(10));
+sumOfNumbersTo(10)
 
  assignment.sumOfNumbersTo = sumOfNumbersTo;
 
@@ -58,7 +58,7 @@ function countEvenNumbersWithin(destination) {
         arrayOfEvenNumbers
     };
 }
-console.log(countEvenNumbersWithin(10));
+countEvenNumbersWithin(10)
 
 assignment.countEvenNumbersWithin = countEvenNumbersWithin;
 
@@ -88,7 +88,7 @@ function celsiusToFahrenheit(arrayOfNumbers) {
     return result;
 }
 
-console.log(celsiusToFahrenheit([51.21, 23, 0, -55, 100]));
+celsiusToFahrenheit([51.21, 23, 0, -55, 100])
 assignment.celsiusToFahrenheit = celsiusToFahrenheit;
 
 // ========================
